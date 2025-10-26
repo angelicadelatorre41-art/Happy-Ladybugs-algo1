@@ -1,1 +1,1 @@
-# Happy-Ladybugs-algo1
+# Happy-Ladybugs-algo1 The program checks if all ladybugs can be happy by ensuring that no color appears only once and that there’s an empty cell ('_') for rearrangement. If every ladybug can be paired or is already grouped together, it returns "YES"; otherwise, it returns "NO".
